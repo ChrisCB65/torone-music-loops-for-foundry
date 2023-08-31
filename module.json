@@ -1,0 +1,22 @@
+{
+  "id": "torone-music-loops-packs",
+  "title": "Torone music loops packs",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "torones-music-loops",
+      "label": "Torone's music loops",
+      "path": "packs/torones-music-loops",
+      "type": "Playlist",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
