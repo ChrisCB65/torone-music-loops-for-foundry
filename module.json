@@ -1,11 +1,18 @@
 {
   "id": "torone-music-loops-packs",
   "title": "Torone music loops packs",
+  "description": "Torone's music loops packs contain a compendium of seamlessly looping music playlists.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "11",
+    "minimum": "10",
     "verified": "11"
   },
+  "authors": [
+    {
+      "name": "Chris 'Torone' Cussat-Blanc",
+      "email": "torone@torone-music.com"
+    }
+  ],
   "packs": [
     {
       "name": "torones-music-loops",
@@ -18,5 +25,10 @@
       },
       "flags": {}
     }
-  ]
+  ],
+  "url": "https://github.com/ChrisCB65/torone-music-loops-for-foundry",
+  "manifest": "https://raw.githubusercontent.com/ChrisCB65/torone-music-loops-for-foundry/main/module.json"
 }
+
+
+
